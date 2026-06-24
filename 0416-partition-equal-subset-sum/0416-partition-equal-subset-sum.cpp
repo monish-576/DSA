@@ -13,23 +13,23 @@ public:
         int sum=accumulate(nums.begin(),nums.end(),0);
         if(sum%2!=0) return false;
         sum/=2;
-        vector<vector<int>>dp(n,vector<int>(sum+1,0));
-        for(int i=0;i<n;i++)
-        {
-            dp[i][0]=1;
-        }
+       vector<int>prev(sum+1,0);
+       vector<int>curr(sum+1,0);
+       prev[0]=1;
+       curr[0]=1;
         if(nums[0] <= sum)
-            dp[0][nums[0]] = 1;
+            prev[nums[0]] = 1;
         for(int i=1;i<n;i++)
         {
             for(int j=1;j<=sum;j++)
             {
                 if(j<nums[i])
-                dp[i][j]=dp[i-1][j];
+                curr[j]=prev[j];
                 else
-                dp[i][j] = (dp[i-1][j]||dp[i-1][j-nums[i]]);
+                curr[j] = (prev[j]||prev[j-nums[i]]);
             }
+            prev=curr;
         }
-        return dp[n-1][sum];
+        return prev[sum];
     }
 };
