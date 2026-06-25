@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
 ## String
 |  |
 | ------- |
