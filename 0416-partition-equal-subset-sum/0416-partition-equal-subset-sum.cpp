@@ -2,8 +2,13 @@ class Solution {
 public:
     bool help(int idx,vector<int>&nums,int sum,int cur, vector<vector<int>>&dp)
     {
-        if(idx<0) return false;
-        if(sum-cur==cur&&idx>=0) return true;
+        if(sum-cur==cur) return true;
+        if(idx==0)
+        {
+            bool nottake=(sum-cur==cur);
+            bool take=(sum-(cur+nums[idx])==(cur+nums[idx]));
+            return nottake||take;
+        }
         if(dp[idx][cur]!=-1) return dp[idx][cur];
         dp[idx][cur]=(help(idx-1,nums,sum,cur+nums[idx],dp)||help(idx-1,nums,sum,cur,dp));
         return dp[idx][cur];
