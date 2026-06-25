@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/monish-576/DSA/tree/master/0052-n-queens-ii) |
+| [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 ## Array
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
