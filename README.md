@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monish-576/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/monish-576/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/monish-576/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monish-576/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/monish-576/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/monish-576/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/monish-576/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/monish-576/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Math
+|  |
+| ------- |
+| [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 <!---LeetCode Topics End-->
