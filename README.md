@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -188,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
