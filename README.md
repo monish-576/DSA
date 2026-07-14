@@ -192,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/monish-576/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/monish-576/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/monish-576/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/monish-576/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
