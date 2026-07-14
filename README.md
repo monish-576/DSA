@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/monish-576/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/monish-576/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/monish-576/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/monish-576/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/monish-576/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
