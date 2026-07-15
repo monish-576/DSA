@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/monish-576/DSA/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/monish-576/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish-576/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monish-576/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
