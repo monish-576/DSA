@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/monish-576/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Indexed Tree
@@ -253,9 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/monish-576/DSA/tree/master/0796-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
