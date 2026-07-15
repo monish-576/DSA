@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monish-576/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/monish-576/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/monish-576/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/monish-576/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/monish-576/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/monish-576/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/monish-576/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/monish-576/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/monish-576/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/monish-576/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/monish-576/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/monish-576/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/monish-576/DSA/tree/master/0328-odd-even-linked-list) |
