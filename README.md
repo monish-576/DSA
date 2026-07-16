@@ -165,11 +165,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -254,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Data Stream
 |  |
