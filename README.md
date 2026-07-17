@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/monish-576/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/monish-576/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/monish-576/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/monish-576/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/monish-576/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/monish-576/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/monish-576/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/monish-576/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/monish-576/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/monish-576/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
