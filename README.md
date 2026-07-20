@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/monish-576/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/monish-576/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
+| [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/monish-576/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monish-576/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/monish-576/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/monish-576/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
