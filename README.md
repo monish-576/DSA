@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/monish-576/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/monish-576/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish-576/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish-576/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monish-576/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monish-576/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
