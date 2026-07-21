@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/monish-576/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/monish-576/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/monish-576/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/monish-576/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/monish-576/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/monish-576/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/monish-576/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/monish-576/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/monish-576/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/monish-576/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/monish-576/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monish-576/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
