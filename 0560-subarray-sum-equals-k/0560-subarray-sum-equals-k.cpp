@@ -8,10 +8,7 @@ public:
         {
              s+=nums[i];
              if(mp.find(s-k)!=mp.end())
-             {
               ans+=mp[s-k];
-              mp[s-k]++;
-             }
              mp[s]++;
         }
         return ans;
