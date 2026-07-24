@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monish-576/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/monish-576/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/monish-576/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/monish-576/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/monish-576/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/monish-576/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monish-576/DSA/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/monish-576/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/monish-576/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Stack
 |  |
 | ------- |
