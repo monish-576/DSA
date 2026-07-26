@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/monish-576/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/monish-576/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/monish-576/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/monish-576/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/monish-576/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/monish-576/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/monish-576/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/monish-576/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
