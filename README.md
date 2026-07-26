@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/monish-576/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/monish-576/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/monish-576/DSA/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/monish-576/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monish-576/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/monish-576/DSA/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/monish-576/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/monish-576/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/monish-576/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
