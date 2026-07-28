@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/monish-576/DSA/tree/master/0872-leaf-similar-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -334,10 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/monish-576/DSA/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/monish-576/DSA/tree/master/0872-leaf-similar-trees) |
 ## Simulation
 |  |
 | ------- |
