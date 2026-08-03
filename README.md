@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/monish-576/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/monish-576/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monish-576/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monish-576/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monish-576/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/monish-576/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/monish-576/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1755-closest-subsequence-sum](https://github.com/monish-576/DSA/tree/master/1755-closest-subsequence-sum) |
 ## String
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/monish-576/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/monish-576/DSA/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/monish-576/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3100-water-bottles-ii](https://github.com/monish-576/DSA/tree/master/3100-water-bottles-ii) |
@@ -406,12 +409,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/monish-576/DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/monish-576/DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/monish-576/DSA/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
