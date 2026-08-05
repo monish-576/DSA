@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monish-576/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monish-576/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/monish-576/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/monish-576/DSA/tree/master/0130-surrounded-regions) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/monish-576/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/monish-576/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/monish-576/DSA/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/monish-576/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/monish-576/DSA/tree/master/0695-max-area-of-island) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/monish-576/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monish-576/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/monish-576/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/monish-576/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/monish-576/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/monish-576/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/monish-576/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/monish-576/DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/monish-576/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/monish-576/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/monish-576/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/monish-576/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/monish-576/DSA/tree/master/1020-number-of-enclaves) |
