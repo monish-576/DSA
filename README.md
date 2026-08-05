@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/monish-576/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/monish-576/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/monish-576/DSA/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/monish-576/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/monish-576/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/monish-576/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/monish-576/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/monish-576/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/monish-576/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/monish-576/DSA/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
