@@ -3,7 +3,7 @@ public:
     int numEnclaves(vector<vector<int>>& grid) {
         int m=grid.size(),n=grid[0].size();
         vector<vector<int>>vis(m,vector<int>(n,-1));
-        vector<vector<int>>dum(grid);
+        // vector<vector<int>>dum(grid);
         queue<pair<int,int>>q;
         for(int i=0;i<n;i++)
         {
@@ -11,7 +11,7 @@ public:
             {
                  q.push({0,i});
                  vis[0][i]=1;
-                 dum[0][i]=-1;
+                //  dum[0][i]=-1;
             }
         }
         for(int i=1;i<m;i++)
@@ -20,7 +20,7 @@ public:
             {
                  q.push({i,n-1});
                  vis[i][n-1]=1;
-                 dum[i][n-1]=-1;
+                //  dum[i][n-1]=-1;
             }
         }
         for(int i=n-2;i>=0;i--)
@@ -29,7 +29,7 @@ public:
             {
                  q.push({m-1,i});
                  vis[m-1][i]=1;
-                 dum[m-1][i]=-1;
+                //  dum[m-1][i]=-1;
             }
         }
         for(int i=m-2;i>=0;i--)
@@ -38,7 +38,7 @@ public:
             {
                  q.push({i,0});
                  vis[i][0]=1;
-                 dum[i][0]=-1;
+                //  dum[i][0]=-1;
             }
         }
         int r[4]={-1,0,0,1};
@@ -56,7 +56,7 @@ public:
              {
                 q.push({rx,cx});
                 vis[rx][cx]=1;
-                dum[rx][cx]=-1;
+                // dum[rx][cx]=-1;
              }
             }
         }
@@ -65,7 +65,7 @@ public:
         {
             for(int j=0;j<n;j++)
             {
-                if(grid[i][j]==1&&dum[i][j]==1)
+                if(grid[i][j]==1&&vis[i][j]==-1)
                 ans++;
             }
         }
