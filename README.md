@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/monish-576/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/monish-576/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/monish-576/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/monish-576/DSA/tree/master/0056-merge-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monish-576/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monish-576/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/monish-576/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/monish-576/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/monish-576/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monish-576/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monish-576/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/monish-576/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/monish-576/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/monish-576/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/monish-576/DSA/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
