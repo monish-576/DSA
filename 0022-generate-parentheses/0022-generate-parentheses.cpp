@@ -1,22 +1,21 @@
 class Solution {
 public:
-    void help(int left,int right,int n,vector<string>&ans,string res)
+    void help(int left,int right,int n,string res,vector<string>&ans)
     {
-         if(left>n) return;
-         if(left<right) return;
-         if(left==n&&right==n)
-         {
+        if(left>n) return;
+        if(left<right) return;
+        if(left==n&&right==n)
+        {
             ans.push_back(res);
             return;
-         }
-         help(left+1,right,n,ans,res+'(');
-         help(left,right+1,n,ans,res+')');
+        }
+        help(left+1,right,n,res+'(',ans);
+        help(left,right+1,n,res+')',ans);
     }
     vector<string> generateParenthesis(int n) {
-        int left=0,right=0;
-        string res="";
         vector<string>ans;
-        help(left,right,n,ans,res);
+        string res="";
+        help(0,0,n,res,ans);
         return ans;
     }
 };
