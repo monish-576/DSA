@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/monish-576/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/monish-576/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/monish-576/DSA/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/monish-576/DSA/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/monish-576/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/monish-576/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/monish-576/DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish-576/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/monish-576/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/monish-576/DSA/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/monish-576/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/monish-576/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/monish-576/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/monish-576/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/monish-576/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/monish-576/DSA/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/monish-576/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/monish-576/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/monish-576/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/monish-576/DSA/tree/master/0110-balanced-binary-tree) |
