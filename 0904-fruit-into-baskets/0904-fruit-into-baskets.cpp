@@ -1,32 +1,23 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unordered_map<int, int> mp;
-        int n = fruits.size();
-        int ans = 0;
-        int i = 0, j = 0;
-
-        while (j < n) {
-            // Add current fruit
+        int ans=0;
+        int n=fruits.size();
+        int i=0,j=0;
+        unordered_map<int,int>mp;
+        while(j<n)
+        {
             mp[fruits[j]]++;
-
-            // Shrink window if more than 2 types
-            while (mp.size() > 2) {
+            if(mp.size()>2)
+            {
                 mp[fruits[i]]--;
-
-                if (mp[fruits[i]] == 0) {
-                    mp.erase(fruits[i]);
-                }
-
+                if(mp[fruits[i]]==0) mp.erase(fruits[i]);
                 i++;
             }
-
-            // Update answer for every valid window
-            ans = max(ans, j - i + 1);
-
+            if(mp.size()<=2)
+            ans=max(ans,j-i+1);
             j++;
         }
-
         return ans;
     }
 };
