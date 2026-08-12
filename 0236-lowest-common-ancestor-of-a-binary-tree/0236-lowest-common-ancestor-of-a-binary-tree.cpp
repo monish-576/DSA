@@ -9,13 +9,16 @@
  */
 class Solution {
 public:
+    TreeNode* help(TreeNode* temp,TreeNode* p,TreeNode* q)
+    {
+           if(temp==NULL) return NULL;
+           TreeNode *left=help(temp->left,p,q);
+           TreeNode *right=help(temp->right,p,q);
+           if(temp==p||temp==q) return temp;
+           if(left!=NULL&&right!=NULL) return temp;
+           return left==NULL? right:left;
+    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==p||root==q||root==NULL)
-        return root;
-        TreeNode *left=lowestCommonAncestor(root->left,p,q);
-        TreeNode *right=lowestCommonAncestor(root->right,p,q);
-        if(left!=NULL&&right!=NULL)
-        return root;
-        return (left!=NULL)? left:right;
+        return help(root,p,q);
     }
 };
