@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/monish-576/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/monish-576/DSA/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/monish-576/DSA/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/monish-576/DSA/tree/master/1603-design-parking-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/monish-576/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/monish-576/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/monish-576/DSA/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
