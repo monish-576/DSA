@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/monish-576/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/monish-576/DSA/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/monish-576/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/monish-576/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/monish-576/DSA/tree/master/0796-rotate-string) |
 ## Number Theory
 |  |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
 | [0706-design-hashmap](https://github.com/monish-576/DSA/tree/master/0706-design-hashmap) |
 ## Bracket Sequences
 |  |
@@ -743,11 +746,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -765,4 +770,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
