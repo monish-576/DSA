@@ -5,14 +5,17 @@ public:
         vector<int>dp(n,1);
         for(int i=1;i<n;i++)
         {
-            int maxi=0;
+            int maxi=1;
             for(int j=0;j<i;j++)
             {
                 if(nums[j]<nums[i])
-                maxi=max(maxi,dp[j]);
+                {
+                     maxi=max(maxi,1+dp[j]);
+                }
             }
-            dp[i]+=maxi;
+            dp[i]=maxi;
         }
-        return *max_element(dp.begin(),dp.end());
+        int ans=*max_element(dp.begin(),dp.end());
+        return ans;
     }
 };
