@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/monish-576/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/monish-576/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1390-four-divisors](https://github.com/monish-576/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monish-576/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monish-576/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/monish-576/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/monish-576/DSA/tree/master/1140-stone-game-ii) |
+| [1390-four-divisors](https://github.com/monish-576/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/monish-576/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/monish-576/DSA/tree/master/1518-water-bottles) |
@@ -822,5 +824,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/monish-576/DSA/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/monish-576/DSA/tree/master/1492-the-kth-factor-of-n) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/monish-576/DSA/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
