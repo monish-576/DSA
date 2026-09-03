@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/monish-576/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/monish-576/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/monish-576/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/monish-576/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/monish-576/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/monish-576/DSA/tree/master/0355-design-twitter) |
 | [0525-contiguous-array](https://github.com/monish-576/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/monish-576/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/monish-576/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/monish-576/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/monish-576/DSA/tree/master/1603-design-parking-system) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/monish-576/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/monish-576/DSA/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/monish-576/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -377,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/monish-576/DSA/tree/master/0355-design-twitter) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monish-576/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -828,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
@@ -860,4 +867,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/monish-576/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
