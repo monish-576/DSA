@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/monish-576/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/monish-576/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/monish-576/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/monish-576/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/monish-576/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/monish-576/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/monish-576/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/monish-576/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/monish-576/DSA/tree/master/1048-longest-string-chain) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/monish-576/DSA/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/monish-576/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -648,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/monish-576/DSA/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/monish-576/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/monish-576/DSA/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/monish-576/DSA/tree/master/1603-design-parking-system) |
