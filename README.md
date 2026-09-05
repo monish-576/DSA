@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/monish-576/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/monish-576/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/monish-576/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/monish-576/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monish-576/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/monish-576/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/monish-576/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/monish-576/DSA/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monish-576/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/monish-576/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monish-576/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/monish-576/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/monish-576/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/monish-576/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/monish-576/DSA/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1755-closest-subsequence-sum](https://github.com/monish-576/DSA/tree/master/1755-closest-subsequence-sum) |
 ## Database
 |  |
@@ -897,4 +901,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/monish-576/DSA/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
