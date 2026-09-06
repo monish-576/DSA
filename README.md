@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/monish-576/DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/monish-576/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/monish-576/DSA/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/monish-576/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monish-576/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monish-576/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monish-576/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/monish-576/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/monish-576/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/monish-576/DSA/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/monish-576/DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/monish-576/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
