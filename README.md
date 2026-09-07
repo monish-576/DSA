@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monish-576/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/monish-576/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/monish-576/DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/monish-576/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/monish-576/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/monish-576/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/monish-576/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/monish-576/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/monish-576/DSA/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monish-576/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/monish-576/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/monish-576/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/monish-576/DSA/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/monish-576/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/monish-576/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -922,5 +927,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
