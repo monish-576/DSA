@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/monish-576/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/monish-576/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/monish-576/DSA/tree/master/2536-increment-submatrices-by-one) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/monish-576/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monish-576/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/monish-576/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monish-576/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/monish-576/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/monish-576/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/monish-576/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/monish-576/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/monish-576/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/monish-576/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish-576/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
