@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/monish-576/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/monish-576/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/monish-576/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/monish-576/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/monish-576/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/monish-576/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/monish-576/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/monish-576/DSA/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/monish-576/DSA/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/monish-576/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/monish-576/DSA/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/monish-576/DSA/tree/master/0617-merge-two-binary-trees) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/monish-576/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/monish-576/DSA/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/monish-576/DSA/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/monish-576/DSA/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/monish-576/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/monish-576/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -975,4 +978,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/monish-576/DSA/tree/master/0881-boats-to-save-people) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/monish-576/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/monish-576/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
