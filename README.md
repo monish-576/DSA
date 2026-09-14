@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/monish-576/DSA/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/monish-576/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1390-four-divisors](https://github.com/monish-576/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/monish-576/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/monish-576/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/monish-576/DSA/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/monish-576/DSA/tree/master/1314-matrix-block-sum) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2536-increment-submatrices-by-one](https://github.com/monish-576/DSA/tree/master/2536-increment-submatrices-by-one) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/monish-576/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/monish-576/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/monish-576/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/monish-576/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/monish-576/DSA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monish-576/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/monish-576/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/monish-576/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
@@ -998,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/monish-576/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/monish-576/DSA/tree/master/0778-swim-in-rising-water) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Timsort
 |  |
@@ -1019,4 +1026,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/monish-576/DSA/tree/master/0139-word-break) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
