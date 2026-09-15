@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/monish-576/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/monish-576/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monish-576/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/monish-576/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/monish-576/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/monish-576/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2536-increment-submatrices-by-one](https://github.com/monish-576/DSA/tree/master/2536-increment-submatrices-by-one) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1755-closest-subsequence-sum](https://github.com/monish-576/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/monish-576/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Database
 |  |
 | ------- |
