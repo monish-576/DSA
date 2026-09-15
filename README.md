@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/monish-576/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/monish-576/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/monish-576/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/monish-576/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monish-576/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish-576/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/monish-576/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
