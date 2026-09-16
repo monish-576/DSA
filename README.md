@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/monish-576/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/monish-576/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/monish-576/DSA/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/monish-576/DSA/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/monish-576/DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/monish-576/DSA/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/monish-576/DSA/tree/master/0796-rotate-string) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/monish-576/DSA/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/monish-576/DSA/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/monish-576/DSA/tree/master/1392-longest-happy-prefix) |
 ## Number Theory
@@ -944,12 +946,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/monish-576/DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/monish-576/DSA/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/monish-576/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0686-repeated-string-match](https://github.com/monish-576/DSA/tree/master/0686-repeated-string-match) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -963,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monish-576/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/monish-576/DSA/tree/master/0214-shortest-palindrome) |
+| [0686-repeated-string-match](https://github.com/monish-576/DSA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/monish-576/DSA/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
