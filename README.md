@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/monish-576/DSA/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/monish-576/DSA/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/monish-576/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/monish-576/DSA/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/monish-576/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1518-water-bottles](https://github.com/monish-576/DSA/tree/master/1518-water-bottles) |
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/monish-576/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/monish-576/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quickselect
 |  |
 | ------- |
