@@ -3,18 +3,17 @@ public:
     int minimumObstacles(vector<vector<int>>& grid) {
         int m=grid.size(),n=grid[0].size();
         vector<vector<int>>vis(m,vector<int>(n,INT_MAX));
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,
-        greater<pair<int,pair<int,int>>>>pq;
+        deque<pair<int,pair<int,int>>>dq;
         vis[0][0]=0;
-        pq.push({0,{0,0}});
+        dq.push_front({0,{0,0}});
         int dr[4]={-1,0,1,0};
         int dc[4]={0,1,0,-1};
-        while(!pq.empty())
+        while(!dq.empty())
         {
-            int cost=pq.top().first;
-            int r=pq.top().second.first;
-            int c=pq.top().second.second;
-            pq.pop();
+            int cost=dq.front().first;
+            int r=dq.front().second.first;
+            int c=dq.front().second.second;
+            dq.pop_front();
             if(r==m-1&&c==n-1) return vis[r][c];
             for(int i=0;i<4;i++)
             {
@@ -24,12 +23,12 @@ public:
                 {
                      if(grid[rx][cx]==0)
                      {
-                        pq.push({cost,{rx,cx}});
+                        dq.push_front({cost,{rx,cx}});
                         vis[rx][cx]=cost;
                      } 
                      else
                      {
-                        pq.push({cost+1,{rx,cx}});
+                        dq.push_back({cost+1,{rx,cx}});
                         vis[rx][cx]=cost+1;
                      }
                 }
