@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
+| [1609-even-odd-tree](https://github.com/monish-576/DSA/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/monish-576/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/monish-576/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/monish-576/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/monish-576/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monish-576/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/monish-576/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/monish-576/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1609-even-odd-tree](https://github.com/monish-576/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/monish-576/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/monish-576/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/monish-576/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
