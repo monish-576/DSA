@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monish-576/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/monish-576/DSA/tree/master/1755-closest-subsequence-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monish-576/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/monish-576/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/monish-576/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/monish-576/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/monish-576/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/monish-576/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/monish-576/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monish-576/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2336-smallest-number-in-infinite-set](https://github.com/monish-576/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monish-576/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/monish-576/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/monish-576/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/monish-576/DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/monish-576/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/monish-576/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/monish-576/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/monish-576/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/monish-576/DSA/tree/master/3498-reverse-degree-of-a-string) |
