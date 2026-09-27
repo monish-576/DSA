@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/monish-576/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/monish-576/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/monish-576/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/monish-576/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/monish-576/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/monish-576/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/monish-576/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/monish-576/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/monish-576/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/monish-576/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/monish-576/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/monish-576/DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/monish-576/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/monish-576/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/monish-576/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/monish-576/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/monish-576/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/monish-576/DSA/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/monish-576/DSA/tree/master/2236-root-equals-sum-of-children) |
