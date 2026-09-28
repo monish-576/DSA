@@ -670,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/monish-576/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/monish-576/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/monish-576/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/monish-576/DSA/tree/master/1518-water-bottles) |
 | [1603-design-parking-system](https://github.com/monish-576/DSA/tree/master/1603-design-parking-system) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/monish-576/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/monish-576/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/monish-576/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monish-576/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/monish-576/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
