@@ -1,34 +1,47 @@
 class Solution {
 public:
+    bool dfs(int idx,vector<vector<int>>&adj,vector<int>&vis,stack<int>&st)
+    {
+        vis[idx]=1;
+        for(int j=0;j<adj[idx].size();j++)
+        {
+            if(vis[adj[idx][j]]==0)
+            {
+                if(!dfs(adj[idx][j],adj,vis,st))
+                  return false;
+            }
+            else if(vis[adj[idx][j]]==1) return false;
+        }
+        vis[idx]=2;
+        st.push(idx);
+        return true;
+    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>>adj(numCourses);
-        vector<int>indegree(numCourses,0);
         for(int i=0;i<prerequisites.size();i++)
         {
             int u=prerequisites[i][0];
             int v=prerequisites[i][1];
             adj[u].push_back(v);
-            indegree[v]++;
         }
         vector<int>ans;
-        queue<int>q;
+        vector<int>vis(numCourses,0);
+        stack<int>st;
+        bool k=true;
         for(int i=0;i<numCourses;i++)
         {
-            if(indegree[i]==0) q.push(i);
-        }
-        while(!q.empty())
+              if(vis[i]==0)
+              k=dfs(i,adj,vis,st);
+              if(k==false) break;
+        }        
+        while(!st.empty())
         {
-            int i=q.front();
-            ans.push_back(i);
-            q.pop();
-            for(int j=0;j<adj[i].size();j++)
-            {
-                indegree[adj[i][j]]--;
-                if(indegree[adj[i][j]]==0) q.push(adj[i][j]);
-
-            }
+            int x=st.top();
+            cout<<x<<" ";
+            ans.push_back(x);
+            st.pop();
         }
-        if(ans.size()==numCourses)
+        if(ans.size()==numCourses&&k==true)
         {
             reverse(ans.begin(),ans.end());
             return ans;
