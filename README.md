@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/monish-576/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/monish-576/DSA/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1462-course-schedule-iv](https://github.com/monish-576/DSA/tree/master/1462-course-schedule-iv) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/monish-576/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/monish-576/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/monish-576/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/monish-576/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/monish-576/DSA/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/monish-576/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/monish-576/DSA/tree/master/0851-loud-and-rich) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/monish-576/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
