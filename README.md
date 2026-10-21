@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/monish-576/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/monish-576/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/monish-576/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/monish-576/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/monish-576/DSA/tree/master/0368-largest-divisible-subset) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/monish-576/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/monish-576/DSA/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/monish-576/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/monish-576/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/monish-576/DSA/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/monish-576/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/monish-576/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/monish-576/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/monish-576/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/monish-576/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/monish-576/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/monish-576/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/monish-576/DSA/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/monish-576/DSA/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/monish-576/DSA/tree/master/0901-online-stock-span) |
@@ -1204,4 +1209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/monish-576/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/monish-576/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
