@@ -13,19 +13,17 @@ public:
     }
     void updateTree(int idx, int l, int r, int index, int val) {
         if (l == r) {
-            segmentTree[idx] = val;
-            arr[index] = val;
+            if (l == index) {
+                segmentTree[idx] = val;
+                arr[index] = val;
+            }
             return;
         }
-
         int mid = (l + r) / 2;
-
-        if (index <= mid) {
-            updateTree(2 * idx + 1, l, mid, index, val);
-        } else {
-            updateTree(2 * idx + 2, mid + 1, r, index, val);
-        }
-
+        if(index<=mid)
+        updateTree(2 * idx + 1, l, mid, index, val);
+        else
+        updateTree(2 * idx + 2, mid + 1, r, index, val);
         segmentTree[idx] = segmentTree[2 * idx + 1] + segmentTree[2 * idx + 2];
     }
     int sum(int idx, int l, int r, int L, int R) {
